@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "SwiftWebVTT"
-  s.version = "1.0.2"
+  s.version = "1.0.3"
   s.summary = "A parser for WebVTT caption files written in Swift"
   s.homepage = "https://github.com/auramagi/SwiftWebVTT"
   s.license = { type: 'MIT', file: 'LICENSE' }
