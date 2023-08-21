@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name = "SwiftWebVTT"
-  s.version = "1.0.3"
+  s.version = "1.0.4"
   s.summary = "A parser for WebVTT caption files written in Swift"
   s.homepage = "https://github.com/auramagi/SwiftWebVTT"
   s.license = { type: 'MIT', file: 'LICENSE' }
   s.authors = { "Mike Apurin" => 'mike.apurin@gmail.com' }
   s.source = { :git => 'git@github.com:bradchien/SwiftWebVTT.git', :tag => s.version }
   
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '11.0'
   
   s.swift_version = '5.0'
   
